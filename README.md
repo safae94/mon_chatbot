@@ -119,12 +119,7 @@ Puis ouvrir http://localhost:8501
 
 ---
 
-## 📈 Améliorations prévues
 
-- Recherche **hybride** (BM25 + recherche sémantique)
-- **Évaluation** de la qualité des réponses (jeu de questions test, rappel, fidélité aux sources)
-- Ajout de nouveaux documents à la base de connaissances
-- Affichage des sources utilisées pour chaque réponse
 
 ---
 
